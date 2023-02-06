@@ -1,0 +1,17 @@
+{
+  "name": "Satvik Reddy",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "A Newbie to tech learning front end development on the go!! :Heart: Communities !!",
+  "links": [
+    {
+     "name": "Follow me on twitter",
+      "url": "https://twitter.com/nssr221b"'
+      "icon" : "Fatwitter"'
+  }
+  {
+    "name": "My GitHub"'
+    "url": "https://github.com/Noob-Master-22";
+    "icon": "FaGithub"l'
+}
+]
